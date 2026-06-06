@@ -21,7 +21,7 @@
 
 **其他语言 / Other Languages:**
 
-[English](README_EN.md)
+[English](README_EN.md) · [日本語](README_JA.md) · [Français](README_FR.md) · [Русский](README_RU.md)
 
 </div>
 

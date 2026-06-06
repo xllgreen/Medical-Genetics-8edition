@@ -20,9 +20,9 @@ Just ask a question, and let the textbook find the answer for you.
 
 <br>
 
-**其他语言 / Other Languages:**
+**Languages / Other Languages:**
 
-[English](README_EN.md)
+[中文](README.md) · [English](README_EN.md) · [日本語](README_JA.md) · [Français](README_FR.md) · [Русский](README_RU.md)
 
 </div>
 
