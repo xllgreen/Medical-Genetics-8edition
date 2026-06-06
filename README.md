@@ -11,7 +11,7 @@
 > 基于《医学遗传学》第8版的临床遗传学技能手册 — 131 项医学遗传学核心临床技能
 <br>
 <br>
-<img src="/assets/Medical-Genetics.png" width="260px">
+<img src="/assets/Medical-Genetics-8edition.png" width="260px">
 <br>
 
 何必苦苦读一本书<br>
@@ -35,9 +35,10 @@
 
 **参考教材**：《医学遗传学》第 8 版
 
-**⚠️ 风险 ⚠️**：该技能涵盖遗传诊断、风险评估、产前筛查、基因治疗策略及伦理决策等主题，这些内容可能被误用为独立的医疗建议。
-
-缓解措施：仅将输出作为教育或临床医生审核的参考资料使用，并根据当前官方指南、本地方案和合格遗传学专家核实建议。
+**⚠️ 风险 ⚠️**：该技能能产生高影响力的临床、生殖、法医或基因治疗指导，若仅作为专业建议，可能存在风险。
+缓解措施：仅将产出作为教育或临床医生审核的参考资料使用，并在诊断、治疗、怀孕、法医、亲子鉴定、基因检测或基因治疗决策前，要求具备合格的医学、遗传学或法律监督。
+**⚠️ 风险 ⚠️**：遗传学案例分析可能涉及敏感的个人或家庭健康信息。
+缓解措施：在分享或处理可识别的遗传、生殖或家族史信息之前，应适用适当的同意、隐私和本地协议控制。
 
 ## 项目结构
 
@@ -82,7 +83,8 @@ Prompt：
 ```bash
 Before installing anything, inspect the ClawHub skill metadata and setup requirements.
 If the skill asks you to install a third-party package or CLI, verify its source, maintainer, and package contents before running the install command.
-Install the skill "Medical-Genetics-8edition" from ClawHub only after those checks pass.
+Install the skill "Medical Genetics 8edition" (xllgreen/medical-genetics-8edition) from ClawHub only after those checks pass.
+Skill page: https://clawhub.ai/xllgreen/medical-genetics-8edition
 Keep the work scoped to this skill only.
 After install, help me finish setup from verified skill metadata.
 Use only the metadata you can verify from ClawHub; do not invent missing requirements.
@@ -182,30 +184,34 @@ Answer:
 
 ## 关于作者
 
-**小绿绿 xllgreen (https://xllgreen.github.io)** — 九江学院临床医学院学生 · 科技极客
+**小绿绿 xllgreen(https://xllgreen.github.io)** — 九江学院临床医学院学生·科技极客
 
 ## 技术支持
-
+<br>
 PDF2App项目：https://pdf2app.cn
-
+<br>
 Microsoft Visual Studio Code：https://code.visualstudio.com/
-
+<br>
 Claude Code for VS Code：https://claude.com/
-
 © 2026 Anthropic PBC
-
-DeepSeek API：https://platform.deepseek.com/
+<br>
+<br>
+<img src="https://cdn.deepseek.com/logo.png?x-image-process=image%2Fresize%2Cw_1920" width="130px">
+<br>DeepSeek API：https://platform.deepseek.com/
 © 2026 杭州深度求索人工智能基础技术研究有限公司 版权所有
-
-Xiaomi Mimo API：https://platform.xiaomimimo.com/
+<br>
+<br>
+<img src="https://cdn.cnbj1.fds.api.mi-img.com/aife/mimo-blog-fe/doc_build/static/image/logo.99baaffe.png" width="130px">
+<br>Xiaomi Mimo API：https://platform.xiaomimimo.com/
 Copyright © 2010 - 2026 Xiaomi. All Rights Reserved
+<br>
 
 ## Star History
 
-<a href="https://www.star-history.com/#repo&type=date">
+<a href="https://www.star-history.com/?repos=xllgreen%2FMedical-Genetics-8edition&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=&type=date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=&type=date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=&type=date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=xllgreen/Medical-Genetics-8edition&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=xllgreen/Medical-Genetics-8edition&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=xllgreen/Medical-Genetics-8edition&type=date&legend=top-left" />
  </picture>
 </a>
